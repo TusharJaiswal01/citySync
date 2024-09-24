@@ -340,9 +340,9 @@ export const benefits = [
     title: "Sustainable Project prioritization",
     text: " Creating a sustainability report to analyse impact of each project on environment",
     backgroundUrl: "./src/assets/benefits/card-5.svg",
-    iconUrl: "https://dashboard-with-chart-pichart-graph-y7om.vercel.app/",
+    iconUrl: "https://cdn-icons-png.flaticon.com/128/8239/8239588.png",
     imageUrl: benefitImage2,
-    link: "http://localhost:5175/"
+    link: "https://dashboard-with-chart-pichart-graph-y7om.vercel.app/"
   },
   {
     id: "5",
