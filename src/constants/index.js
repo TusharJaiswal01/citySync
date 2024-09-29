@@ -303,7 +303,7 @@ export const benefits = [
     imageUrl: benefitImage2,
     light: true,
     backgroundUrl: "./src/assets/benefits/card-6.svg",
-    link: "http://localhost:5000/"
+    link: "#"
   },
   {
     id: "1",
@@ -313,7 +313,7 @@ export const benefits = [
     iconUrl: "https://cdn-icons-png.flaticon.com/128/16139/16139688.png",
     imageUrl: benefitImage2,
     light: true,
-    link: "http://localhost:3003/"
+    link: "https://analytical-dashboard-delta.vercel.app/dashboard"
   },
   {
     id: "2",
@@ -323,7 +323,7 @@ export const benefits = [
 
     iconUrl: "https://cdn-icons-png.flaticon.com/128/8672/8672237.png",
     imageUrl: benefitImage2,
-    link: "http://localhost:5176/"
+    link: "#"
   },
   {
     id: "3",
@@ -333,7 +333,7 @@ export const benefits = [
     iconUrl: "https://cdn-icons-png.flaticon.com/128/6576/6576105.png",
     imageUrl: benefitImage2,
     light: true,
-    link: ""
+    link: "#"
   },
   {
     id: "4",
@@ -352,7 +352,7 @@ export const benefits = [
     backgroundUrl: "./src/assets/benefits/card-2.svg",
     iconUrl: "https://cdn-icons-png.flaticon.com/128/10758/10758868.png",
     imageUrl: benefitImage2,
-    link: "http://localhost:5173/"
+    link: "#"
   },
 ];
 
