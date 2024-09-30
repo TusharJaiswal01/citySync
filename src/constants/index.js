@@ -352,7 +352,7 @@ export const benefits = [
     backgroundUrl: "./src/assets/benefits/card-2.svg",
     iconUrl: "https://cdn-icons-png.flaticon.com/128/10758/10758868.png",
     imageUrl: benefitImage2,
-    link: https://budget-expense-tracker-main-de1-sanskar-jains-projects-dca92dea.vercel.app
+    link: "https://budget-expense-tracker-main-de1-sanskar-jains-projects-dca92dea.vercel.app"
   },
 ];
 
