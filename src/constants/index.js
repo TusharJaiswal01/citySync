@@ -323,7 +323,7 @@ export const benefits = [
 
     iconUrl: "https://cdn-icons-png.flaticon.com/128/8672/8672237.png",
     imageUrl: benefitImage2,
-    link: "#"
+    link: "https://gis-mapping.vercel.app"
   },
   {
     id: "3",
@@ -333,7 +333,7 @@ export const benefits = [
     iconUrl: "https://cdn-icons-png.flaticon.com/128/6576/6576105.png",
     imageUrl: benefitImage2,
     light: true,
-    link: "#"
+    link: "https://citysync-community.vercel.app/"
   },
   {
     id: "4",
