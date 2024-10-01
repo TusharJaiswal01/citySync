@@ -296,14 +296,14 @@ export const pricing = [
 // ];
 export const benefits = [
   {
-    id: "5",
-    title: "AI Powered Predictor",
-    text: " Ai powered predictor to plan project details and cost in advance to avoid any last minute hassle and to provide a clear picture of the project",
-    iconUrl: "https://cdn-icons-png.flaticon.com/128/5278/5278402.png",
+    id: "0",
+    title: "Expense tracker and project planner",
+    text: "Creating a comprehensive expense tracker and project planner to keep account of cost incurred and project progress to help in further operations",
+
+    backgroundUrl: "./src/assets/benefits/card-2.svg",
+    iconUrl: "https://cdn-icons-png.flaticon.com/128/10758/10758868.png",
     imageUrl: benefitImage2,
-    light: true,
-    backgroundUrl: "./src/assets/benefits/card-6.svg",
-    link: "#"
+    link: "https://budget-expense-tracker-main-de1-sanskar-jains-projects-dca92dea.vercel.app"
   },
   {
     id: "1",
@@ -344,15 +344,16 @@ export const benefits = [
     imageUrl: benefitImage2,
     link: "https://dashboard-with-chart-pichart-graph-y7om.vercel.app/"
   },
-  {
-    id: "0",
-    title: "Expense tracker and project planner",
-    text: "Creating a comprehensive expense tracker and project planner to keep account of cost incurred and project progress to help in further operations",
-
-    backgroundUrl: "./src/assets/benefits/card-2.svg",
-    iconUrl: "https://cdn-icons-png.flaticon.com/128/10758/10758868.png",
+  
+{
+    id: "5",
+    title: "AI Powered Predictor",
+    text: " Ai powered predictor to plan project details and cost in advance to avoid any last minute hassle and to provide a clear picture of the project",
+    iconUrl: "https://cdn-icons-png.flaticon.com/128/5278/5278402.png",
     imageUrl: benefitImage2,
-    link: "https://budget-expense-tracker-main-de1-sanskar-jains-projects-dca92dea.vercel.app"
+    light: true,
+    backgroundUrl: "./src/assets/benefits/card-6.svg",
+    link: "#"
   },
 ];
 
