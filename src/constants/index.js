@@ -296,7 +296,7 @@ export const pricing = [
 // ];
 export const benefits = [
   {
-    id: "0",
+    id: "5",
     title: "AI Powered Predictor",
     text: " Ai powered predictor to plan project details and cost in advance to avoid any last minute hassle and to provide a clear picture of the project",
     iconUrl: "https://cdn-icons-png.flaticon.com/128/5278/5278402.png",
@@ -345,7 +345,7 @@ export const benefits = [
     link: "https://dashboard-with-chart-pichart-graph-y7om.vercel.app/"
   },
   {
-    id: "5",
+    id: "0",
     title: "Expense tracker and project planner",
     text: "Creating a comprehensive expense tracker and project planner to keep account of cost incurred and project progress to help in further operations",
 
